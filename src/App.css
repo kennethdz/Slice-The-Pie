@@ -1,0 +1,142 @@
+body {
+	background-color: #2e2e2e;
+}
+#root {
+	margin: auto;
+	justify-self: center;
+	background-color: #2e2e2e;
+	color: white;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+main {
+  text-align: center;
+  vertical-align: center;
+	margin: auto;
+
+}
+div {
+	padding-left: 10px;
+	padding-right: 10px;
+	justify-content: center;
+	justify-self: center;
+
+}
+h1 {
+	text-align: center;
+	margin: 0;
+	padding: 20px;
+}
+.tooltipButton {
+	margin: 2px;
+	justify-self: center;
+	padding: 2px;
+	border-radius: 50%;
+	color: black;
+	background-color: white;
+	font-weight: bolder;
+	font-size: 6px;
+}
+.tooltipInfo {
+	background-color: white;
+	color: black;
+	padding: 10px;
+	border-radius: 5px;
+}
+button {
+	margin: 10px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 20px;
+}
+input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid white;
+	color: #7f8187;
+	font-weight: bold;
+	text-align: center;
+}
+.header {
+	margin: 0;
+	padding: 20px;
+}
+.MuiStepLabel-label.MuiStepLabel-active {
+	color: white;
+}
+.MuiStepLabel-label.MuiStepLabel-alternativeLabel {
+	color: white;
+}
+.pieBlock {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	font-weight: bolder;
+}
+.pie-chart {
+	display: flex;
+	max-width: 300px;
+	justify-self: center;
+	margin: auto;
+	justify-content: center;
+	color: white;
+}
+.entry {
+	display: flex;
+	justify-content: space-between;
+	font-weight: bold;
+	font-size: 10px;
+}
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+	margin-right: 10px;
+}
+.hide {
+	display: none;
+}
+.hf0bf00 {
+	background-color: #f0bf00;
+}
+.hf6e50e {
+	background-color: #f6e50e;
+}
+.hfff688 {
+	background-color: #fff688;
+}
+.h5f63ec {
+	background-color: #5f63ec;
+}
+.h71a8ff {
+	background-color: #71a8ff;
+}
+.h0f7ab4 {
+	background-color: #0f7ab4;
+}
+.hd4e4ff {
+	background-color: #d4e4ff;
+}
+.h7f8187 {
+	background-color: #7f8187;
+}
+.h2e2e2e {
+	background-color: #2e2e2e;
+}
+.h12c5e4 {
+	background-color: #12c5e4;
+}
+.white {
+	background-color: white;
+}
+
+@media only screen and (min-width: 400px) {
+  .entry {
+		font-size: 16px;
+  }
+}
+
